@@ -34,6 +34,9 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 ---
 
 # 👨‍💻 About Me
+<p align="center">
+<img src="https://i.imgur.com/abcd123.png" width="100%">
+</p>
 
  Final-Year **BSc (Hons) Data Science Undergraduate** passionate about building intelligent solutions using **Artificial Intelligence, Machine Learning, and Data Science.**
 
