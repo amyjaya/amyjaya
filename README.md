@@ -1,9 +1,7 @@
 <!-- ======================= HERO ======================= -->
-
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Amintha%20Jayasooriya&fontSize=40&fontColor=ffffff&animation=twinkling"/>
 </p>
-
 
 <h1 align="center">Hi 👋 I'm Amintha Jayasooriya</h1>
 
