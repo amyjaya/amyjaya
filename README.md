@@ -34,21 +34,23 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 # 👨‍💻 About Me
 
-🎓 Final-Year **BSc (Hons) Data Science Undergraduate**
+<img align="right" alt="AI Developer Illustration" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
 
-🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, and Large Language Models.**
+ Final-Year **BSc (Hons) Data Science Undergraduate** passionate about building intelligent solutions using **Artificial Intelligence, Machine Learning, and Data Science.**
 
-🚀 I enjoy building intelligent applications by combining data, AI, and modern software engineering.
+ I specialize in developing AI-driven applications by combining **data analytics, deep learning, large language models, and modern software engineering practices.**
 
-📱 Currently developing AI-powered mobile applications using **Flutter & Supabase**.
+ Currently building **AI-powered mobile applications** using **Flutter, Supabase, and Generative AI technologies.**
 
-🧠 Exploring:
+###  Currently Exploring
 
+-  Large Language Models (LLMs)
+-  Retrieval-Augmented Generation (RAG)
+-  AI Agents & Autonomous Systems
 - Graph Neural Networks (GNNs)
-- Large Language Models (LLMs)
-- Retrieval-Augmented Generation (RAG)
-- AI Agents
-- MLOps
+-  MLOps & AI Deployment
+
+ Interested in creating scalable AI solutions that transform real-world problems through data and intelligent systems.
 
 ---
 
@@ -82,10 +84,10 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 | Project | Description | Tech Stack |
 |---------|-------------|------------|
-| 💰 **BillFold – AI Financial Assistant** | Flutter-based AI assistant using RAG for personalized financial insights. | `Flutter` `Supabase` `RAG` `FastAPI` |
-| 🤖 **Fake Engagement Detection** | Deep learning system for detecting fake likes, comments, and followers. | `Python` `Transformers` `GNN` |
-| 📊 **Customer Churn Prediction Platform** | End-to-end MLOps pipeline for customer churn prediction. | `Python` `Scikit-learn` `MLflow` `FastAPI` `Docker` |
-| 🌱 **Smart Agriculture AI Platform** | AI-powered crop monitoring platform with cloud integration. | `JavaScript` `PHP` `MySQL` `AWS` |
+|  **BillFold – AI Financial Assistant** | Flutter-based AI assistant using RAG for personalized financial insights. | `Flutter` `Supabase` `RAG` `FastAPI` |
+|  **Fake Engagement Detection** | Deep learning system for detecting fake likes, comments, and followers. | `Python` `Transformers` `GNN` |
+|  **Customer Churn Prediction Platform** | End-to-end MLOps pipeline for customer churn prediction. | `Python` `Scikit-learn` `MLflow` `FastAPI` `Docker` |
+|  **Smart Agriculture AI Platform** | AI-powered crop monitoring platform with cloud integration. | `JavaScript` `PHP` `MySQL` `AWS` |
 
 # 📚 Currently Learning
 
