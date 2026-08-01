@@ -7,50 +7,7 @@
 </p>
 
 <h3 align="center">
-🎓 Final-Year Data Science Undergraduate • 🤖 AI & Machine Learning Enthusiast • 📱 Flutter Developer
-</h3>
-
-<p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=850&lines=👋+Welcome+to+My+GitHub+Profile;Building+AI-Powered+Solutions;Machine+Learning+%7C+Deep+Learning;Flutter+%7C+Supabase+Developer;Exploring+LLMs+%26+Retrieval-Augmented+Generation;Turning+Data+into+Intelligent+Systems"/>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/amyjaya">
-<img src="https://img.shields.io/badge/GitHub-amyjaya-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amintha-jayasooriya-b6b048265">
-<img src="https://img.shields.io/badge/LinkedIn-Amintha%20Jayasooriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://famous-dieffenbachia-16806a.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="mailto:amintha2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-amintha2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=amyjaya&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
-<img src="https://img.shields.io/github/followers/amyjaya?label=Followers&style=for-the-badge&logo=github"/>
-
-<img src="https://img.shields.io/github/stars/amyjaya?label=Stars&style=for-the-badge&logo=github"/>
-
-</p>
-
----
-
-<p align="center">
-
-💡 **Aspiring Data Scientist | AI & Machine Learning Enthusiast | Passionate about building intelligent solutions through data and technology.**
+🎓 Final-Year Data Science Undergraduate • 🤖 AI & Machine Learning Enthusiast
 
 </p>
 <p align="center">
