@@ -1,8 +1,9 @@
 <!-- ======================= HERO ======================= -->
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Amintha%20Jayasooriya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=250&section=header&text=Amintha%20Jayasooriya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
+
 
 <h3 align="center">
 Data Science Undergraduate | AI & Machine Learning Enthusiast
@@ -34,7 +35,7 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 # 👨‍💻 About Me
 
-<img align="center" width="400" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/animated-code.gif">
+<img align="right" width="400" alt="Developer Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/Developer.gif">
 
  Final-Year **BSc (Hons) Data Science Undergraduate** passionate about building intelligent solutions using **Artificial Intelligence, Machine Learning, and Data Science.**
 
@@ -127,7 +128,6 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 - Team Member – IEEE Industry Applications Society (IAS)
 
 ---
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:667eea,100:764ba2&height=120&section=footer&animation=fadeIn"/>
 </p>
