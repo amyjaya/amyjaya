@@ -35,7 +35,7 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 # 👨‍💻 About Me
 
-<img align="right" width="400" alt="Developer Coding" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/Developer.gif">
+<img align="right" width="350" alt="Developer" src="https://raw.githubusercontent.com/rajput-hemant/rajput-hemant/main/assets/programmer.png">
 
  Final-Year **BSc (Hons) Data Science Undergraduate** passionate about building intelligent solutions using **Artificial Intelligence, Machine Learning, and Data Science.**
 
