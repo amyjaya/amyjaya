@@ -129,9 +129,5 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 ---
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=amyjaya&label=Profile%20Views&color=4F8EF7&style=for-the-badge"/>
-</p>
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer&animation=fadeIn"/>
 </p>
