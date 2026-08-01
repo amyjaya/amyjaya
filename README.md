@@ -166,9 +166,9 @@ Cloud-based smart agriculture platform with AI-powered crop monitoring.
 
 # 🏆 Leadership & Activities
 
-- 💙 Treasurer – IEEE Women in Engineering (WIE)
-- 🌍 Student Branch IRP Coordinator – IEEE SLSAC
-- ⚡ Team Member – IEEE Industry Applications Society (IAS)
+- Treasurer – IEEE Women in Engineering (WIE)
+- Student Branch IRP Coordinator – IEEE SLSAC
+- Team Member – IEEE Industry Applications Society (IAS)
 
 ---
 
