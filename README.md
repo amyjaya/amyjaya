@@ -1,6 +1,8 @@
 <!-- ======================= HERO ======================= -->
+<!-- ======================= HEADER ======================= -->
+
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=footer&text=Amintha%20Jayasooriya&fontSize=40&fontColor=ffffff&animation=twinkling"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Amintha%20Jayasooriya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <h1 align="center">Hi 👋 I'm Amintha Jayasooriya</h1>
@@ -8,6 +10,10 @@
 <h3 align="center">
 Data Science Undergraduate | AI & Machine Learning Enthusiast
 </h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Solutions;Exploring+Machine+Learning+%26+Deep+Learning;Developing+Mobile+Applications+with+Flutter;Turning+Data+into+Intelligent+Systems"/>
+</p>
 
 <p align="center">
   <a href="https://github.com/amyjaya">
