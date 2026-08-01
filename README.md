@@ -34,7 +34,7 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 # 👨‍💻 About Me
 
-<img align="right" alt="Developer Coding" width="320" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/dev.gif">
+<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Developer.gif">
 
  Final-Year **BSc (Hons) Data Science Undergraduate** passionate about building intelligent solutions using **Artificial Intelligence, Machine Learning, and Data Science.**
 
