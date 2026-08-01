@@ -3,27 +3,29 @@
 <h1 align="center">Hi 👋, I'm Amintha Jayasooriya</h1>
 
 <h3 align="center">
-Building Intelligent AI Systems with Data Science & Flutter
+Final-Year Data Science Undergraduate | AI & Machine Learning Enthusiast | Flutter Developer
 </h3>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Data+Science+Undergraduate;AI+%26+Machine+Learning+Enthusiast;Flutter+Developer;Always+Learning+Something+New"/>
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Solutions;Exploring+Machine+Learning+%26+Deep+Learning;Developing+Mobile+Applications+with+Flutter;Turning+Data+into+Intelligent+Systems"/>
 </p>
 
 <p align="center">
 
-<a href="https://github.com/amyjaya">
-<img src="https://img.shields.io/github/followers/amyjaya?style=for-the-badge&logo=github">
+<a href="https://github.com/amyjaya" target="_blank">
+<img src="https://img.shields.io/badge/GitHub-amyjaya-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+<a href="https://www.linkedin.com/in/amintha-jayasooriya-b6b048265" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-Amintha%20Jayasooriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
-<img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white">
+<a href="https://famous-dieffenbachia-16806a.netlify.app/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:amintha2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-amintha2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
 </p>
@@ -34,74 +36,119 @@ Building Intelligent AI Systems with Data Science & Flutter
 
 🎓 Final-Year **BSc (Hons) Data Science Undergraduate**
 
-🤖 Passionate about Artificial Intelligence, Machine Learning, and Flutter Development.
+🤖 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Data Analytics, and Large Language Models.**
 
-🚀 I enjoy building intelligent applications that solve real-world problems using modern AI technologies.
+🚀 I enjoy building intelligent applications by combining data, AI, and modern software engineering.
 
-🌱 Currently learning **Graph Neural Networks, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and MLOps.**
+📱 Currently developing AI-powered mobile applications using **Flutter & Supabase**.
+
+🧠 Exploring:
+
+- Graph Neural Networks (GNNs)
+- Large Language Models (LLMs)
+- Retrieval-Augmented Generation (RAG)
+- AI Agents
+- MLOps
 
 ---
 
-# 🛠 Tech Stack
+# 🛠 Technical Skills
 
-### Languages
+## 👨‍💻 Programming Languages
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,r,js"/>
-
+<img src="https://skillicons.dev/icons?i=python,r,java,javascript,dart"/>
 </p>
 
-### AI & Data Science
+## 🤖 AI & Data Science
 
 <p>
-
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
-
 </p>
 
-**Libraries**
+**Libraries & Frameworks**
 
-Pandas • NumPy • Scikit-Learn • Matplotlib
+- Pandas
+- NumPy
+- Scikit-learn
+- Matplotlib
+- Hugging Face
+- LangChain
 
-### Mobile & Backend
+## 📱 Mobile & Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=flutter,supabase,fastapi"/>
-
+<img src="https://skillicons.dev/icons?i=flutter,supabase,fastapi,firebase"/>
 </p>
 
-### Cloud & DevOps
+## 🗄 Databases
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions"/>
-
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 </p>
 
-### Databases
+## ☁️ Tools & DevOps
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
-
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux"/>
 </p>
 
 ---
 
 # 🚀 Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| 💰 **BillFold** | AI-powered Personal Financial Assistant built with Flutter, Supabase & RAG |
-| 🤖 **Fake Engagement Detection** | Detecting fake social media engagement using Transformers & GNNs |
-| 📊 **Customer Churn Prediction** | End-to-End MLOps pipeline with Docker, MLflow & FastAPI |
-| 🌱 **Smart Agriculture Platform** | AI-powered crop monitoring and disease detection platform |
+## 💰 BillFold – AI Personal Financial Assistant
+
+Flutter-based financial assistant using AI and RAG for personalized financial insights.
+
+**Tech Stack**
+
+`Flutter` `Supabase` `RAG` `FastAPI`
 
 ---
 
-# 📊 GitHub Analytics
+## 🤖 Fake Engagement Detection Across Social Media Platforms
+
+Deep learning system to detect fake likes, comments, and followers.
+
+**Tech Stack**
+
+`Python` `Transformers` `Graph Neural Networks`
+
+---
+
+## 📊 Customer Churn Prediction Platform
+
+End-to-end MLOps pipeline for customer churn prediction.
+
+**Tech Stack**
+
+`Python` `Scikit-learn` `MLflow` `FastAPI` `Docker`
+
+---
+
+## 🌱 Smart Agriculture AI Platform
+
+Cloud-based smart agriculture platform with AI-powered crop monitoring.
+
+**Tech Stack**
+
+`HTML` `CSS` `JavaScript` `PHP` `MySQL` `AWS`
+
+---
+
+# 📚 Currently Learning
+
+- 🧠 Large Language Models
+- 🔎 Retrieval-Augmented Generation (RAG)
+- 🤖 AI Agents
+- ☁️ Cloud Deployment
+- ⚙️ MLOps
+- 📈 Deep Learning
+
+---
+
+# 📊 GitHub Statistics
 
 <p align="center">
 
@@ -112,57 +159,41 @@ Pandas • NumPy • Scikit-Learn • Matplotlib
 </p>
 
 <p align="center">
-
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amyjaya&layout=compact&theme=tokyonight&hide_border=true"/>
-
+<img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amyjaya&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 <p align="center">
-
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amyjaya&theme=tokyo-night"/>
-
 </p>
 
 ---
 
-# 🌱 Currently Learning
+# 🏆 Leadership & Activities
 
-- 🧠 Large Language Models (LLMs)
-- ⚡ Graph Neural Networks (GNNs)
-- 📚 Retrieval-Augmented Generation (RAG)
-- ☁️ MLOps & Cloud Deployment
-- 🤖 Agentic AI
+- 💙 Treasurer – IEEE Women in Engineering (WIE)
+- 🌍 Student Branch IRP Coordinator – IEEE SLSAC
+- ⚡ Team Member – IEEE Industry Applications Society (IAS)
 
 ---
 
-# 🏆 Leadership
-
-- 💙 IEEE WIE – Treasurer
-- 🌍 IEEE SLSAC – SB IRP Coordinator
-- ⚡ IEEE IAS – Team Member
-
----
-
-# 📫 Connect With Me
+# 📫 Contact Me
 
 <p align="center">
 
 <a href="mailto:amintha2002@gmail.com">
-
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
-
+<img src="https://img.shields.io/badge/Gmail-amintha2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
-<a href="YOUR_LINKEDIN">
-
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-
+<a href="https://www.linkedin.com/in/amintha-jayasooriya-b6b048265">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="YOUR_PORTFOLIO">
+<a href="https://famous-dieffenbachia-16806a.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
 
-<img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white">
-
+<a href="https://github.com/amyjaya">
+<img src="https://img.shields.io/badge/GitHub-amyjaya-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 </p>
@@ -170,13 +201,9 @@ Pandas • NumPy • Scikit-Learn • Matplotlib
 ---
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=amyjaya&label=Profile+Views&color=4F8EF7&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=amyjaya&label=Profile%20Views&color=4F8EF7&style=for-the-badge"/>
 </p>
 
 <p align="center">
-
 <img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
-
 </p>
