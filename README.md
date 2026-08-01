@@ -1,11 +1,8 @@
 <!-- ======================= HERO ======================= -->
-<!-- ======================= HEADER ======================= -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Amintha%20Jayasooriya&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38"/>
 </p>
-
-<h1 align="center">Hi 👋 I'm Amintha Jayasooriya</h1>
 
 <h3 align="center">
 Data Science Undergraduate | AI & Machine Learning Enthusiast
