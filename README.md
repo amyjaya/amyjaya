@@ -34,7 +34,7 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 # 👨‍💻 About Me
 
-<img align="right" alt="AI Developer Illustration" width="300" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg">
+<img align="right" alt="Developer Coding" width="320" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/dev.gif">
 
  Final-Year **BSc (Hons) Data Science Undergraduate** passionate about building intelligent solutions using **Artificial Intelligence, Machine Learning, and Data Science.**
 
