@@ -34,11 +34,6 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 ---
 
 # 👨‍💻 About Me
-[
-<img align="right" width="350" alt="AI Developer" src="https://raw.githubusercontent.com/saadeghi/saadeghi/main/dino.gif">](https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20
-   &height=180&section=header&text=[NAME]&fontSize=42&fontColor=fff
-   &animation=twinkling&fontAlignY=32&desc=[TAGLINE]&descAlignY=62&descSize=16
-)
 
  Final-Year **BSc (Hons) Data Science Undergraduate** passionate about building intelligent solutions using **Artificial Intelligence, Machine Learning, and Data Science.**
 
