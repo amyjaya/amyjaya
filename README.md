@@ -34,7 +34,7 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 # 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/master/assets/Developer.gif">
+<img align="right" alt="AI Developer" width="320" src="./assets/ai-developer.png">
 
  Final-Year **BSc (Hons) Data Science Undergraduate** passionate about building intelligent solutions using **Artificial Intelligence, Machine Learning, and Data Science.**
 
