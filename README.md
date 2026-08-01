@@ -9,10 +9,6 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Solutions;Exploring+Machine+Learning+%26+Deep+Learning;Developing+Mobile+Applications+with+Flutter;Turning+Data+into+Intelligent+Systems"/>
-</p>
-
-<p align="center">
   <a href="https://github.com/amyjaya">
     <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Building+AI-Powered+Applications;Flutter+Developer;Always+Learning+New+Technologies"/>
   </a>
