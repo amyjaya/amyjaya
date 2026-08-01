@@ -137,12 +137,12 @@ Cloud-based smart agriculture platform with AI-powered crop monitoring.
 
 # 📚 Currently Learning
 
-- 🧠 Large Language Models
-- 🔎 Retrieval-Augmented Generation (RAG)
-- 🤖 AI Agents
-- ☁️ Cloud Deployment
-- ⚙️ MLOps
-- 📈 Deep Learning
+- Large Language Models
+-  Retrieval-Augmented Generation (RAG)
+-  AI Agents
+-  Cloud Deployment
+-  MLOps
+- Deep Learning
 
 ---
 
