@@ -80,45 +80,12 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 # 🚀 Featured Projects
 
-## 💰 BillFold – AI Personal Financial Assistant
-
-Flutter-based financial assistant using AI and RAG for personalized financial insights.
-
-**Tech Stack**
-
-`Flutter` `Supabase` `RAG` `FastAPI`
-
----
-
-## 🤖 Fake Engagement Detection Across Social Media Platforms
-
-Deep learning system to detect fake likes, comments, and followers.
-
-**Tech Stack**
-
-`Python` `Transformers` `Graph Neural Networks`
-
----
-
-## 📊 Customer Churn Prediction Platform
-
-End-to-end MLOps pipeline for customer churn prediction.
-
-**Tech Stack**
-
-`Python` `Scikit-learn` `MLflow` `FastAPI` `Docker`
-
----
-
-## 🌱 Smart Agriculture AI Platform
-
-Cloud-based smart agriculture platform with AI-powered crop monitoring.
-
-**Tech Stack**
-
-`HTML` `CSS` `JavaScript` `PHP` `MySQL` `AWS`
-
----
+| Project | Description | Tech Stack |
+|---------|-------------|------------|
+| 💰 **BillFold – AI Financial Assistant** | Flutter-based AI assistant using RAG for personalized financial insights. | `Flutter` `Supabase` `RAG` `FastAPI` |
+| 🤖 **Fake Engagement Detection** | Deep learning system for detecting fake likes, comments, and followers. | `Python` `Transformers` `GNN` |
+| 📊 **Customer Churn Prediction Platform** | End-to-end MLOps pipeline for customer churn prediction. | `Python` `Scikit-learn` `MLflow` `FastAPI` `Docker` |
+| 🌱 **Smart Agriculture AI Platform** | AI-powered crop monitoring platform with cloud integration. | `JavaScript` `PHP` `MySQL` `AWS` |
 
 # 📚 Currently Learning
 
