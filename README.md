@@ -1,20 +1,58 @@
 <!-- ======================= HERO ======================= -->
 
-<h1 align="center">Amintha Jayasooriya</h1>
+<!-- ======================= PREMIUM HEADER ======================= -->
+
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Amintha%20Jayasooriya&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
+</p>
 
 <h3 align="center">
-Final-Year Data Science Undergraduate | AI & Machine Learning Enthusiast | Flutter Developer
+🎓 Final-Year Data Science Undergraduate • 🤖 AI & Machine Learning Enthusiast • 📱 Flutter Developer
 </h3>
 
 <p align="center">
-  <a href="https://github.com/amyjaya">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Building+AI-Powered+Applications;Flutter+Developer;Always+Learning+New+Technologies"/>
-  </a>
-</p>
-<p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=700&lines=Building+AI-Powered+Solutions;Exploring+Machine+Learning+%26+Deep+Learning;Developing+Mobile+Applications+with+Flutter;Turning+Data+into+Intelligent+Systems"/>
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3500&pause=1200&color=4F8EF7&center=true&vCenter=true&width=850&lines=👋+Welcome+to+My+GitHub+Profile;Building+AI-Powered+Solutions;Machine+Learning+%7C+Deep+Learning;Flutter+%7C+Supabase+Developer;Exploring+LLMs+%26+Retrieval-Augmented+Generation;Turning+Data+into+Intelligent+Systems"/>
+
 </p>
 
+<p align="center">
+
+<a href="https://github.com/amyjaya">
+<img src="https://img.shields.io/badge/GitHub-amyjaya-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/amintha-jayasooriya-b6b048265">
+<img src="https://img.shields.io/badge/LinkedIn-Amintha%20Jayasooriya-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://famous-dieffenbachia-16806a.netlify.app/">
+<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<a href="mailto:amintha2002@gmail.com">
+<img src="https://img.shields.io/badge/Email-amintha2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+</p>
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=amyjaya&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+
+<img src="https://img.shields.io/github/followers/amyjaya?label=Followers&style=for-the-badge&logo=github"/>
+
+<img src="https://img.shields.io/github/stars/amyjaya?label=Stars&style=for-the-badge&logo=github"/>
+
+</p>
+
+---
+
+<p align="center">
+
+💡 **Aspiring Data Scientist | AI & Machine Learning Enthusiast | Passionate about building intelligent solutions through data and technology.**
+
+</p>
 <p align="center">
 
 <a href="https://www.linkedin.com/in/amintha-jayasooriya-b6b048265" target="_blank">
