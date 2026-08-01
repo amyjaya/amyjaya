@@ -1,14 +1,16 @@
 <!-- ======================= HERO ======================= -->
 
-<!-- ======================= PREMIUM HEADER ======================= -->
-
-<p align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&height=280&color=gradient&text=Amintha%20Jayasooriya&fontSize=55&fontAlignY=38&animation=fadeIn&fontColor=ffffff"/>
-</p>
+<h1 align="center">Hi 👋 I'm Amintha Jayasooriya</h1>
 
 <h3 align="center">
-🎓 Final-Year Data Science Undergraduate • 🤖 AI & Machine Learning Enthusiast
+Final-Year Data Science Undergraduate | AI & Machine Learning Enthusiast | Flutter Developer
+</h3>
 
+<p align="center">
+  <a href="https://github.com/amyjaya">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=28&duration=3500&pause=1000&color=4F8EF7&center=true&vCenter=true&width=800&lines=Artificial+Intelligence+%7C+Machine+Learning;Building+AI-Powered+Applications;Flutter+Developer;Always+Learning+New+Technologies"/>
+  </a>
+</p>
 </p>
 <p align="center">
 
