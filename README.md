@@ -50,13 +50,13 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 # 🛠 Technical Skills
 
-## 👨‍💻 Programming Languages
+## Programming Languages
 
 <p>
 <img src="https://skillicons.dev/icons?i=python,r,java,javascript,dart"/>
 </p>
 
-## 🤖 AI & Data Science
+##  AI & Data Science
 
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
@@ -64,26 +64,28 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 **Libraries & Frameworks**
 
-- Pandas
-- NumPy
-- Scikit-learn
-- Matplotlib
-- Hugging Face
-- LangChain
+<p>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+</p>
 
-## 📱 Mobile & Backend
+## Mobile & Backend
 
 <p>
 <img src="https://skillicons.dev/icons?i=flutter,supabase,fastapi,firebase"/>
 </p>
 
-## 🗄 Databases
+## Databases
 
 <p>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
 </p>
 
-## ☁️ Tools & DevOps
+##  Tools & DevOps
 
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux"/>
