@@ -54,48 +54,29 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 
 # 🛠 Technical Skills
 
-## Programming Languages
-
+### Languages
 <p>
 <img src="https://skillicons.dev/icons?i=python,r,java,javascript,dart"/>
 </p>
 
-##  AI & Data Science
-
+### AI / Data Science
 <p>
 <img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
+<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat&logo=huggingface&logoColor=black"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikitlearn&logoColor=white"/>
 </p>
 
-**Libraries & Frameworks**
-
+### Development & Databases
 <p>
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
-<img src="https://img.shields.io/badge/Scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black"/>
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://skillicons.dev/icons?i=flutter,fastapi,firebase,supabase,mysql,mongodb,postgres"/>
 </p>
 
-## Mobile & Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=flutter,supabase,fastapi,firebase"/>
-</p>
-
-## Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgres"/>
-</p>
-
-##  Tools & DevOps
-
+### Tools
 <p>
 <img src="https://skillicons.dev/icons?i=git,github,docker,aws,linux"/>
 </p>
-
----
 
 # 🚀 Featured Projects
 
@@ -175,30 +156,6 @@ Cloud-based smart agriculture platform with AI-powered crop monitoring.
 - Treasurer – IEEE Women in Engineering (WIE)
 - Student Branch IRP Coordinator – IEEE SLSAC
 - Team Member – IEEE Industry Applications Society (IAS)
-
----
-
-# 📫 Contact Me
-
-<p align="center">
-
-<a href="mailto:amintha2002@gmail.com">
-<img src="https://img.shields.io/badge/Gmail-amintha2002%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/amintha-jayasooriya-b6b048265">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://famous-dieffenbachia-16806a.netlify.app/">
-<img src="https://img.shields.io/badge/Portfolio-Visit%20Website-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white"/>
-</a>
-
-<a href="https://github.com/amyjaya">
-<img src="https://img.shields.io/badge/GitHub-amyjaya-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-</p>
 
 ---
 
