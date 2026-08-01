@@ -1,12 +1,30 @@
+<!-- ======================= HERO ======================= -->
+
 <h1 align="center">Hi 👋, I'm Amintha Jayasooriya</h1>
 
 <h3 align="center">
-AI • Data Science • Flutter Developer
+Building Intelligent AI Systems with Data Science & Flutter
 </h3>
 
 <p align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Data+Science+Undergraduate;Machine+Learning+Enthusiast;Flutter+Developer;AI+Researcher"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&weight=600&size=24&duration=3000&pause=1000&color=4F8EF7&center=true&vCenter=true&width=650&lines=Data+Science+Undergraduate;AI+%26+Machine+Learning+Enthusiast;Flutter+Developer;Always+Learning+Something+New"/>
+
+</p>
+
+<p align="center">
+
+<a href="https://github.com/amyjaya">
+<img src="https://img.shields.io/github/followers/amyjaya?style=for-the-badge&logo=github">
+</a>
+
+<a href="YOUR_LINKEDIN">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="YOUR_PORTFOLIO">
+<img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white">
+</a>
 
 </p>
 
@@ -14,11 +32,13 @@ AI • Data Science • Flutter Developer
 
 # 👨‍💻 About Me
 
-🎓 Final-Year Data Science Undergraduate at SLTC
+🎓 Final-Year **BSc (Hons) Data Science Undergraduate**
 
-💡 Passionate about AI, Machine Learning, Flutter and Data Analytics.
+🤖 Passionate about Artificial Intelligence, Machine Learning, and Flutter Development.
 
-🚀 Currently building intelligent applications using AI and modern cloud technologies.
+🚀 I enjoy building intelligent applications that solve real-world problems using modern AI technologies.
+
+🌱 Currently learning **Graph Neural Networks, Large Language Models (LLMs), Retrieval-Augmented Generation (RAG), and MLOps.**
 
 ---
 
@@ -26,33 +46,45 @@ AI • Data Science • Flutter Developer
 
 ### Languages
 
-Python • R • SQL • JavaScript
+<p>
 
-### AI
+<img src="https://skillicons.dev/icons?i=python,r,js"/>
 
-PyTorch • TensorFlow • Scikit-Learn • Pandas • NumPy
+</p>
 
-### Mobile
+### AI & Data Science
 
-Flutter • Supabase
+<p>
 
-### Cloud
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow"/>
 
-AWS • Docker • FastAPI • GitHub Actions
+</p>
 
-### Tools
+**Libraries**
 
-Git • Power BI • Figma • Google Colab
+Pandas • NumPy • Scikit-Learn • Matplotlib
 
----
+### Mobile & Backend
 
-# 📊 GitHub Stats
+<p>
 
-<p align="center">
+<img src="https://skillicons.dev/icons?i=flutter,supabase,fastapi"/>
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amyjaya&show_icons=true&theme=tokyonight"/>
+</p>
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amyjaya&theme=tokyonight"/>
+### Cloud & DevOps
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,githubactions"/>
+
+</p>
+
+### Databases
+
+<p>
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
 
 </p>
 
@@ -60,48 +92,77 @@ Git • Power BI • Figma • Google Colab
 
 # 🚀 Featured Projects
 
-| Project | Tech |
-|---------|------|
-| 💰 BillFold | Flutter • Supabase • AI |
-| 🤖 Fake Engagement Detection | Transformers • GNN |
-| 📊 Customer Churn Prediction | MLflow • Docker • FastAPI |
-| 🌱 Smart Agriculture | PHP • AWS |
+| Project | Description |
+|----------|-------------|
+| 💰 **BillFold** | AI-powered Personal Financial Assistant built with Flutter, Supabase & RAG |
+| 🤖 **Fake Engagement Detection** | Detecting fake social media engagement using Transformers & GNNs |
+| 📊 **Customer Churn Prediction** | End-to-End MLOps pipeline with Docker, MLflow & FastAPI |
+| 🌱 **Smart Agriculture Platform** | AI-powered crop monitoring and disease detection platform |
 
 ---
 
-# 🎓 Education
+# 📊 GitHub Analytics
 
-**BSc (Hons) Data Science**
+<p align="center">
 
-Sri Lanka Technology Campus
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=amyjaya&show_icons=true&theme=tokyonight&hide_border=true"/>
 
-Expected Graduation: **2027**
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=amyjaya&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amyjaya&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amyjaya&theme=tokyo-night"/>
+
+</p>
 
 ---
 
 # 🌱 Currently Learning
 
-- 🤖 Large Language Models
-- 📚 Graph Neural Networks
-- ⚡ Retrieval-Augmented Generation
-- ☁ MLOps
+- 🧠 Large Language Models (LLMs)
+- ⚡ Graph Neural Networks (GNNs)
+- 📚 Retrieval-Augmented Generation (RAG)
+- ☁️ MLOps & Cloud Deployment
+- 🤖 Agentic AI
 
 ---
 
-# 📫 Connect
+# 🏆 Leadership
+
+- 💙 IEEE WIE – Treasurer
+- 🌍 IEEE SLSAC – SB IRP Coordinator
+- ⚡ IEEE IAS – Team Member
+
+---
+
+# 📫 Connect With Me
 
 <p align="center">
 
 <a href="mailto:amintha2002@gmail.com">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+
+<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+
 </a>
 
-<a href="https://linkedin.com/in/amintha-jayasooriya-b6b048265">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+<a href="YOUR_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+
 </a>
 
-<a href="https://github.com/amyjaya">
-<img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github">
+<a href="YOUR_PORTFOLIO">
+
+<img src="https://img.shields.io/badge/Portfolio-4F8EF7?style=for-the-badge&logo=googlechrome&logoColor=white">
+
 </a>
 
 </p>
@@ -110,6 +171,12 @@ Expected Graduation: **2027**
 
 <p align="center">
 
-⭐ Thanks for visiting my profile ⭐
+<img src="https://komarev.com/ghpvc/?username=amyjaya&label=Profile+Views&color=4F8EF7&style=for-the-badge"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
 
 </p>
