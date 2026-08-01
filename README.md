@@ -1,9 +1,14 @@
 <!-- ======================= HERO ======================= -->
 
+<p align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient"/>
+</p>
+
+
 <h1 align="center">Hi 👋 I'm Amintha Jayasooriya</h1>
 
 <h3 align="center">
-Final-Year Data Science Undergraduate | AI & Machine Learning Enthusiast | Flutter Developer
+Data Science Undergraduate | AI & Machine Learning Enthusiast
 </h3>
 
 <p align="center">
