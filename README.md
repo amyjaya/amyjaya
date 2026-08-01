@@ -3,7 +3,7 @@
 <h1 align="center">Hi 👋, I'm Amintha Jayasooriya</h1>
 
 <h3 align="center">
-Final-Year Data Science Undergraduate | AI & Machine Learning Enthusiast | Flutter Developer
+Data Science Undergraduate | AI & Machine Learning Enthusiast 
 </h3>
 
 <p align="center">
