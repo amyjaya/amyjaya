@@ -34,10 +34,6 @@ Data Science Undergraduate | AI & Machine Learning Enthusiast
 ---
 
 # 👨‍💻 About Me
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=35&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&width=700&lines=Amintha+Jayasooriya;Data+Science+Undergraduate;AI+%26+Machine+Learning+Enthusiast">
-</p>
-
  Final-Year **BSc (Hons) Data Science Undergraduate** passionate about building intelligent solutions using **Artificial Intelligence, Machine Learning, and Data Science.**
 
  I specialize in developing AI-driven applications by combining **data analytics, deep learning, large language models, and modern software engineering practices.**
