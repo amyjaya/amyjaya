@@ -6,7 +6,7 @@
 
 
 <h3 align="center">
-Data Science Undergraduate | AI & Machine Learning Enthusiast
+Data Science Undergraduate | AI Enthusiast
 </h3>
 
 <p align="center">
